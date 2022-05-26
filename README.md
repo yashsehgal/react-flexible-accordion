@@ -1,4 +1,3 @@
-# React TailwindCSS Configured Template
+# React Flexible Accordion Component
 
-- Use it ,enjoy you life.
-- Build amazing and beautiful things with react and tailwindcss.
+Trying to make a accordion component in react. using tailwind as styling
